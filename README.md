@@ -70,13 +70,3 @@ jupyter notebook "p2 (1).ipynb"
 ### 3. Running the Interactive Demo (UI)
 The last section of the notebook contains the **Gradio** code. Running that cell will launch a local web server:
 <img width="1269" height="572" alt="image" src="https://github.com/user-attachments/assets/927cb81f-6fee-43db-b087-0912478505a1" />
-
-
-### تغییرات مهم نسبت به نسخه قبل:
-1.  **اضافه شدن بخش Interactive UI:** نحوه اجرای Gradio و کد مربوط به آن اضافه شد.
-2.  **اشاره به RoBERTa:** نام دقیق مدل زبانی اصلاح شد.
-3.  **اشاره به دیتاست MELD:** نام دیتاست مشخص شد.
-4.  **Ablation Study:** جدولی برای مقایسه نتایج (صدا/متن/ترکیبی) اضافه شد که نشان‌دهنده عمق کار علمی شماست.
-5.  **کتابخانه Gradio:** به لیست نیازمندی‌های نصب اضافه شد.
-
-این فایل اکنون کاملاً با مستندات و کدهای شما هماهنگ است.
